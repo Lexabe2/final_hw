@@ -2,4 +2,4 @@
 *.sqlite3
 *.log
 *.pyc
-*.product_photos
+/product_photos/
